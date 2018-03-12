@@ -8,10 +8,12 @@ The table of contents is not same as book.
 
 The exercise start from x.3 corresponding chapter 2 in book.
 
+---
+
 ## Contents
 
 |Chapter|Completion|
-|:---:|:---:|
+|:---|:---:|
 |[X.1 Introduction]()||
 |[X.2 The Structure of This Book]()||
 |[X.3 A Tour of C++: The Basics]()||
