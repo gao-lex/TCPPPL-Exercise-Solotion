@@ -22,8 +22,8 @@ The exercise start from x.3 corresponding chapter 2 in book.
 |[X.4 A Tour of C++: Abstraction Mechanisms]()|0%||
 |[X.5 A Tour of C++: Containers and Algorithms]()|0%||
 |[X.6 A Tour of C++: Concurrency and Utilities]()|0%||
-|[X.7 Types and Declarations](X7/)|100%|[@gao-lex](https://github.com/gao-lex)|
-|[X.8 Pointers, Arrays, and References](X8/)|100%|[@gao-lex](https://github.com/gao-lex)|
+|[X.7 Types and Declarations](.X7/)|100%|[@gao-lex](https://github.com/gao-lex)|
+|[X.8 Pointers, Arrays, and References](.X8/)|100%|[@gao-lex](https://github.com/gao-lex)|
 |[X.9 Structures, Unions, and Enumerations]()|0%||
 |[X.10 Statements]()|0%||
 |[X.11 Expressions]()|0%||
