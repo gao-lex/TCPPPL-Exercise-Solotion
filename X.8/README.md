@@ -155,7 +155,7 @@ $ g++ 8-6.cpp -std=c++11
 $ ./a.out     
 ```
 
-**Error in VisualStudio2017 by MVVC**
+**Error in VisualStudio2017 by MSVC**
 ![](./image/Error8-6.png)
 
 ---
