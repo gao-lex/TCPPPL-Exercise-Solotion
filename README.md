@@ -25,7 +25,7 @@ The exercise start from x.3 corresponding chapter 2 in book.
 |[X.7 Types and Declarations](X.7/README.md)|Done|[@gao-lex](https://github.com/gao-lex)|
 |[X.8 Pointers, Arrays, and References](X.8/README.md)|Done|[@gao-lex](https://github.com/gao-lex)|
 |[X.9 Structures, Unions, and Enumerations](X.9/README.md)|Done|[@gao-lex](https://github.com/gao-lex)|
-|[X.10 Statements]()|Waiting||
+|[X.10 Statements](X.10/README.md)|Done|[@gao-lex](https://github.com/gao-lex)|
 |[X.11 Expressions]()|Waiting||
 |[X.12 Select Operations]()|Waiting||
 |[X.13 Functions]()|Waiting||
