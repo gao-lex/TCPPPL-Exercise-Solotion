@@ -27,7 +27,7 @@ The exercise start from x.3 corresponding chapter 2 in book.
 |[X.9 Structures, Unions, and Enumerations](X.9/README.md)|Done|-|
 |[X.10 Statements](X.10/README.md)|Done|-|
 |[X.11 Expressions](X.11/README.md)|Done|11-11~11-14|
-|[X.12 Select Operations]()|Waiting|-|
+|[X.12 Select Operations](X.12/README.md)|Done|-|
 |[X.13 Functions]()|Waiting|-|
 |[X.14 Exception Handling]()|Waiting|-|
 |[X.15 Namespaces]()|Waiting|-|

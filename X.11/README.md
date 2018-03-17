@@ -486,6 +486,8 @@ $ ./a.out
 
 * 15 Copy all even non-zero elements of an int[] into a vector<int> . Use a pointer and ++ for the traversal.
 
+**i think this question may be X.12 1**
+
 ```c++
 #include <iostream>
 #include <vector>
