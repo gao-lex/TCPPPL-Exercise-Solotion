@@ -26,9 +26,9 @@ The exercise start from x.3 corresponding chapter 2 in book.
 |[X.8 Pointers, Arrays, and References](X.8/README.md)|Done|-|
 |[X.9 Structures, Unions, and Enumerations](X.9/README.md)|Done|-|
 |[X.10 Statements](X.10/README.md)|Done|-|
-|[X.11 Expressions](X.11/README.md)|Done|11-11~11-14|
-|[X.12 Select Operations](X.12/README.md)|Done|12-5|
-|[X.13 Functions]()|Waiting|-|
+|[X.11 Expressions](X.11/README.md)|Done|11,14|
+|[X.12 Select Operations](X.12/README.md)|Done|5|
+|[X.13 Functions]()|Waiting|5,6,7,8,11,12|
 |[X.14 Exception Handling]()|Waiting|-|
 |[X.15 Namespaces]()|Waiting|-|
 |[X.16 Files]()|Waiting|-|
