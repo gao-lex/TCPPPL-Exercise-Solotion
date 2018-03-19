@@ -126,6 +126,7 @@ int main(int argc, char *argv[])
 		while ((c = std::fgetc(fp)) != EOF) { // standard C I/O file reading loop
 			std::putchar(c);
 		}
+		fclose(fp);
         cout<<endl;
 	}
 	return 0;
@@ -287,7 +288,7 @@ i would choose a name convenient me
 
 ---
 
-* 17 Write an error function that takes a printf -style format string containing %s , %c , and %d directives and an arbitrary number of arguments. Don’t use printf() . Look at §43.3 if you don’t know the meaning of %s , %c , and %d . Use <cstdarg> .
+* 17 Write an error function that takes a printf -style format string containing %s , %c , and %d directives(指令) and an arbitrary(任意的) number of arguments. Don’t use printf() . Look at §43.3 if you don’t know the meaning of %s , %c , and %d . Use <cstdarg> .
 
 ---
 
@@ -295,11 +296,20 @@ i would choose a name convenient me
 
 ---
 
-* 19 Add functions such as sqr t() , log() , and sin() to the desk calculator from §10.2. Hint: Predefine the names and call the functions through an array of pointers to functions. Don’t forget to check the arguments in a function call.
+* 19 Add functions such as sqrt() , log() , and sin() to the desk calculator from §10.2. Hint: Predefine the names and call the functions through an array of pointers to functions. Don’t forget to check the arguments in a function call.
 
 ---
 
 * 20 Write a factorial function that does not use recursion.
+
+```c++
+int fac(int i)
+{
+	for (auto a = 2; a < i; a++)
+		i *= a;
+	return i;
+}
+```
 
 ---
 

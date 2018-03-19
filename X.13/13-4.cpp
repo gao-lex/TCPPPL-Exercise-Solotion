@@ -12,6 +12,7 @@ int main(int argc, char *argv[])
 		while ((c = std::fgetc(fp)) != EOF) { // standard C I/O file reading loop
 			std::putchar(c);
 		}
+		fclose(fp);
         cout<<endl;
 	}
 	return 0;
