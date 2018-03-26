@@ -1,8 +1,14 @@
-* 1 Find the error in Date::add_year() in §16.2.3. Then find two additional errors in the version in §16.2.10.
+* 1 Find the error in `Date::add_year()` in §16.2.3. Then find two additional errors in the version in §16.2.10.
+
+```c++
+
+```
 
 ---
 
 * 2 Complete and test Date . Reimplement it with ‘‘number of days after 1/1/1970’’ representation.
+
+
 
 ---
 
